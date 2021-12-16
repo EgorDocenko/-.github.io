@@ -462,3 +462,51 @@ h1{
     word-wrap: break-word; /* чтобы слова переносились на маленьком экране */ 
     margin-top: -300px;
 }
+
+.recapt_1{
+    margin-left: 300px;
+    width: 700px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 100px;
+    border-radius: 30px;
+    padding-top: 5px;
+}
+
+.block_2{
+    margin-left: 5px;
+    width: 340px;
+    height: 290px;
+  
+    background-color:#f7c0c0 ;
+    
+    border-radius: 30px;
+}   
+
+.block_3{
+   margin-left: 355px;
+    width: 340px;
+    height: 290px;
+    margin-top: -290px;
+    background-color:#f7c0c0 ;
+  
+    border-radius: 30px;
+}
+
+.photo_1{
+    width:320px ;
+    height: 270px;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.texst_1{
+    color: rgb(197, 105, 105);
+    text-align: center;
+    font-size: 25px;
+    margin: 0 auto; /* для центрирования display: table; не нужно указывать ширину блока, она рассчитывается самостоятельно */ 
+    white-space: pre-line; /* не нужен <br> */ 
+    word-wrap: break-word; /* чтобы слова переносились на маленьком экране */ 
+  
+}
