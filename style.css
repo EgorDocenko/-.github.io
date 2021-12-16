@@ -381,7 +381,7 @@ body{
 .block_wrapper{
     background-color:#fdd3d3;
     width: 900px;
-    height: 9700px;
+    height: 7700px;
     margin-left: 190px;
     transition: 0.7s;
     margin-top: -7560px;
@@ -427,38 +427,3 @@ h1{
     margin-right: -900px;
 }
 
-.potato{
-    margin-left: 300px;
-    width: 700px;
-    height: 300px;
-    background-color: rgb(255, 255, 255);
-    margin-top: -2000px;
-    border-radius: 30px;
-    padding-top: 5px;
-}
-
-.ggg{
-    margin-left: 5px;
-    width: 690px;
-    height: 290px;
-  
-    background-color:#f7c0c0 ;
-    
-    border-radius: 30px;
-}
-
-.texst{
-    color: rgb(197, 105, 105);
-    text-align: center;
-    font-size: 25px;
-}
-
-.qqq{
-    color: rgb(197, 105, 105);
-    text-align: center;
-    font-size: 25px;
-    margin: 0 auto; /* для центрирования display: table; не нужно указывать ширину блока, она рассчитывается самостоятельно */ 
-    white-space: pre-line; /* не нужен <br> */ 
-    word-wrap: break-word; /* чтобы слова переносились на маленьком экране */ 
-    margin-top: -300px;
-}
